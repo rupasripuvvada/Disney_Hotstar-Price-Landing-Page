@@ -1,1 +1,1 @@
-# Disney-Hotstar-Price-Landing-Page
+# Disney+Hotstar-Price-Landing-Page
